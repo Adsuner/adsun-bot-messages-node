@@ -1,0 +1,10 @@
+# Adsun Bot Message Ads — Node.js
+
+> Documented advbot integration with protected Telegram messages.
+
+## Canonical sources
+- [README](https://github.com/Adsuner/adsun-bot-messages-node/blob/main/README.md): setup, scope and limitations.
+- [Official Adsun documentation](https://adsun.io/documentation/publisher/telegram-bot): upstream API/workflow reference.
+
+## Boundaries
+Independent teaching example, not proprietary SDK source. No credentials or environment files. Browser SDK is loaded only from https://api.adsun.io/sdk.js. No guarantee of search or AI indexing.
